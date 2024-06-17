@@ -10,6 +10,19 @@ Additionally, Markup Languages enhance accessibility for users with disabilities
 
 ## Question 2
 
+### Packets
+
+A packet is a unit or portion of data that is sent over a computer network. This method of splitting and sending data is known as Packet Switching. Each packet contains part of a complete message that hold important address information of the sending computer and its intended recipient, where the packets are then reordered into a single file at their destination. Packet loss occurs when one or more packets fail to reach the intended destination.
+
+The worlds first packet-switching network was developed in 1969 by Advanced Research Projects Agency (ARPA) named ARPANET. This invention provided the foundation in which the internet still operates today. As ARPANET evolved, it required governance which supported the invention of a new method named Transmission-Control Protocol (TCP/IP).
+
+### IP Addresses (IPv4 and IPv6)
+
+
+
+### Routers and Routing
+
+### Domains and DNS
 
 
 ## Question 3
@@ -57,3 +70,5 @@ Additionally, Markup Languages enhance accessibility for users with disabilities
 1. https://www.semrush.com/blog/markup-language/
 2. https://www.ranked.ai/post/understanding-markup-languages
 3. https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/
+4. https://www.cloudflare.com/en-au/learning/network-layer/what-is-a-packet/
+5. https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
