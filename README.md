@@ -34,7 +34,7 @@ Domain Name System (DNS) is a protocol for how computers relay data over the int
 
 ### TCP
 
-
+Transmission Control Protocol (TCP) is the internet protocol establishes a connection between computers, allowing them to communicate between each other by transferring data over long distances. As the internet is a packet-switched network, the data is broken down into small packets which are sent individually through different routes (facilitated by routers) and then reassembled at the destination (BasuMallick, 2022). Since it's inception in the 1970's-80's when the internet was being built, it has been a cornerstone in the development of communication over the internet. It provides a reliable method to transmit data over the internet, ensuring data is delivered accurately in its correct order (Kurose & Ross, 2021). Its design has effectively enabled it to scale with the current growth of the internet and served as a foundation for the advancing of many internet technologies (Severance, 2015). This has been accomplished by standardising the information delivery so all hosted applications on the internet are interoperable (BasuMallick, 2022).
 
 ### HTTP and HTTPS
 
@@ -44,7 +44,13 @@ Domain Name System (DNS) is a protocol for how computers relay data over the int
 
 
 
-## Question 4
+## Question 5
+
+https://www.netguru.com/blog/python-pros-and-cons
+https://serokell.io/blog/python-pros-and-cons - Python
+
+https://ellow.io/advantages-and-disadvantages-of-javascript/
+
 
 
 
@@ -54,7 +60,7 @@ Domain Name System (DNS) is a protocol for how computers relay data over the int
 
 ## Question 7
 
-
+gibbs reflection
 
 ## Question 8
 
