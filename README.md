@@ -42,6 +42,12 @@ Transmission Control Protocol (TCP) is the internet protocol establishes a conne
 
 ## Question 4
 
+Compilers (eg. C, C++) and Interpreters (eg. JS) are programs that take high-level language or source code, that we humans understand, and converts it into machine language; each with their own advantages and disadvantages. The main difference between the two is that, a compiler will read the entire code that is saved to a file before it is executed; whereas interpreters read source code line by line while the program is running (Ben Sassi, 2023). Compiled code generally takes longer to analyse than Interpreted as it goes through the entire code, but consequently the program will run faster than interpreted code being analysed line by line while the program is being executed. 
+
+Compilers will display all errors after it's been compiled and interpreters will display the errors of each line individually which makes it simpler to debug. This in turn means that compilers generally consume more memory than interpreters. Another reason Compiled code is faster is due to it being optimised to the device or platform that is is run on, although this can also be a disadvantage as it means the programs may not be cross-platform compatible. Once code has been compiled, the executable file can be launched without needing any of the source code which provides some confidentiality. Interpreters always require the source code for processing but can be executed on any machine or device without compatibility issues (BasuMallick, 2023).
+
+Both compilers and interpreters have unique applications and do not replace each other.
+
 
 
 ## Question 5
