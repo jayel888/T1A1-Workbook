@@ -91,25 +91,6 @@ Jess Lee
 Project Manager
 Coder Academy
 
-
-
-
-
-
-
-
-
-don't sell items - expand and sell items, we can easily add a shop page
-landing page showing the most recent and attractive exhibits
-contact page
-display exhibits
-
-needs for the website
-appropritae techniques
-professional tools - html, css
-wireframes
-
-
 ## Question 7
 
 I have only had one previous software engineering project, which was creating my Website Portfolio for Coder Academy. The scenario I will be reflecting upon specifically is when I was trying to create the landing page for My Blogs and the Blog Article layout page. For this self-reflection, I will be adopting Gibbs' Reflective Cycle 1988, which explored six stages of the experience: description, feelings, evaluation, analysis, conclusion and action plan. I believe this reflection model covers many bases and offers a solid framework for examining many aspects of the experience (University of Edinburgh, n.d.).
