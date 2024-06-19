@@ -42,13 +42,11 @@ Transmission Control Protocol (TCP) is the internet protocol establishes a conne
 
 ## Question 4
 
-Compilers (eg. C, C++) and Interpreters (eg. JS) are programs that take high-level language or source code, that we humans understand, and converts it into machine language; each with their own advantages and disadvantages. The main difference between the two is that, a compiler will read the entire code that is saved to a file before it is executed; whereas interpreters read source code line by line while the program is running (Ben Sassi, 2023). Compiled code generally takes longer to analyse than Interpreted as it goes through the entire code, but consequently the program will run faster than interpreted code being analysed line by line while the program is being executed. 
+Compilers (eg. C, C++) and Interpreters (eg. PHP, Ruby) are programs that take high-level language or source code, that we humans understand, and converts it into machine language; each with their own advantages and disadvantages. The main difference between the two is that, a compiler will read the entire code that is saved to a file before it is executed; whereas interpreters read source code line by line as the program is run. (Ben Sassi, 2023). Compiled code generally takes longer to analyse than Interpreted as it goes through the entire code, but consequently the program will run faster than interpreted code being analysed line by line while the program is being executed. 
 
 Compilers will display all errors after it's been compiled and interpreters will display the errors of each line individually which makes it simpler to debug. This in turn means that compilers generally consume more memory than interpreters. Another reason Compiled code is faster is due to it being optimised to the device or platform that is is run on, although this can also be a disadvantage as it means the programs may not be cross-platform compatible. Once code has been compiled, the executable file can be launched without needing any of the source code which provides some confidentiality. Interpreters always require the source code for processing but can be executed on any machine or device without compatibility issues (BasuMallick, 2023).
 
 Both compilers and interpreters have unique applications and do not replace each other.
-
-
 
 ## Question 5
 
@@ -61,6 +59,50 @@ https://serokell.io/blog/python-pros-and-cons - Python
 
 
 ## Question 6
+
+Hi Alex,
+
+Thank you so much for your enquiry. From the briefing you provided, I will definitely be able to assist you in the creation of your website!
+
+I can send you a mock up of the wireframes and sitemaps which will provide you a visual on the layout for each page of the website and how the website flows. This will tell us if we're heading in the right direction of your vision. If I may ask, who is your primary target audience? This will help us decide on the most suitable design elements such as theme, colours and images etc. We ensure that all the website we design are responsive, so my team will optimise it for all devices as most people now access the internet through their phones. Additionally, we also focus on SEO optimisation, so your website ranks higher when certain keywords are searched into search engines like Google for example. This will increase traffic flow, bringing more people to your Museum. 
+
+Bsased on what you described, this is the current layout I have in mind for your website:
+**Home Page** - On your landing page, we can keep it up-to-date with the latest and attractive exhibit you have at the time to really captivate your audience. We will design a navigation bar and footer which will make it easier for your customers to navigate to all pages of the website. 
+
+**Exhibits / What's On Page** - We can create a separate page listing all of your exhibits and items, etc. including all past and future ones; this will help increase consumer engagement as they can see what will be coming to the museum and plan accordingly. This would be helpful for schools to plan excursions ahead of time for example. 
+
+**Plan Your Visit / Location Page** - Another page will be dedicated to location and helping customers navigating to your museum. We can implement a Google Map that is interactive showing exactly where your museum is located, and when clicked, they will be directed to Google Maps and can plan their journey. We could also include nearest train stations or public transport options, nearest parking facilities and restaurants/cafes. We could also include a floormap of the museum which will help customers optimise their visit. This will also include a link directly to the Tickets page if applicable. Providing all this information to your customers will make it as easy as possible for them to access your museum.
+
+**Contact Us Page** - This page will display all the contact information for the museum, including opening hours, contact number, email, address and links to all your social media. This will also include a form for customers to fill in and contact you directly from the website, which would include information such as "Name, Number, Email and Message". 
+
+**Tickets** - If your museum requires tickets, we would be able to design a page that allows customers/members to purchase directly from your website. 
+
+You mentioned that you do not currently sell items, however, if in future you ever decide you want to, we could add a 'Shop" page and integrate an e-commerce store.
+
+My team will be responsible for hosting the website, managing customer information database and overall maintenance. We could update the website to suit your desired theme/exhibit. Once we have built the website, it will thoroughly tested to ensure everything is working as it should before finally launching it live. We strive to keep your involved in the entire process and keeping you updated on progress.
+
+Please let me know what you think. If there is anything else you would like to add or change, please don't hesitate to contact me. If you're happy with the above, I can begin on creating a quote and providing you with estimated timeframes. I look forward to hearing back from you.
+
+
+Kind Regards,
+
+Jess Lee
+
+Project Manager
+Coder Academy
+
+
+
+
+
+
+
+
+
+don't sell items - expand and sell items, we can easily add a shop page
+landing page showing the most recent and attractive exhibits
+contact page
+display exhibits
 
 needs for the website
 appropritae techniques
