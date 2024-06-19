@@ -55,46 +55,67 @@ Both compilers and interpreters have unique applications and do not replace each
 https://www.netguru.com/blog/python-pros-and-cons
 https://serokell.io/blog/python-pros-and-cons - Python
 
-https://ellow.io/advantages-and-disadvantages-of-javascript/
+
 
 
 
 
 ## Question 6
 
+needs for the website
+appropritae techniques
+professional tools - html, css
+wireframes
 
 
 ## Question 7
 
-gibbs reflection
+I have only had one previous software engineering project, which was creating my Website Portfolio for Coder Academy. The scenario I will be reflecting upon specifically is when I was trying to create the landing page for My Blogs and the Blog Article layout page. For this self-reflection, I will be adopting Gibbs' Reflective Cycle 1988, which explored six stages of the experience: description, feelings, evaluation, analysis, conclusion and action plan. I believe this reflection model covers many bases and offers a solid framework for examining many aspects of the experience (University of Edinburgh, n.d.).
+
+### Description
+
+I explicitly remember the difficulty I had designing these two pages. After I had spent hours designing my header and footer and having everything the way I liked, I moved onto designing the main blogs page and the blog article page with placeholder text. I was attempting to utilise CSS Grid as I was previously working with CSS Flexbox and wanted to try to achieve the design I wanted with a different method. I wanted to create interactive and responsive tiles for each blog, centering them in the middle of the page. And for the individual blogs layout, I had decided to go with a generic article layout with the heading at the top, image on the right, and text wrapping around the image. Due to creating my wireframes and planning the layout beforehand, I knew exactly how I wanted those pages to look, the journey however, just wasn't what I expected. But I suppose that can be said about coding in general. I had allocated myself 3 hours after work to complete these pages, which I believed would be a generous amount of time after completing the Header and Footer over the last few days, so I had gained a bit of experience.
+
+### Feeling
+
+Going into the task, I had felt hopeful, as I managed to complete other areas of the website fairly smoothly, however for this specific task, I went through an entire array of emotions. The strongest and most frequent emotion I felt was frustration. Whenever I tried to place an element where I had imagined, it would throw everything else out of position. It was even worse when you felt like the code you had written would fix it, only to check liveshare and it look even worse than before. However all this frustration was followed with slight feelings of accomplishment after finally managing to do what you wanted. It was shortlived as you would start on a new element and the cycle would continue again. Reflecting on this now, I am proud of myself for persevering through that and not letting it overwhelm me completely. 
+
+### Evaluation
+
+The positives I can take away from this experience is that in the end, I did manage to complete it and have it working as planned. The most common thing that went wrong was having my main and footer not staying in position, or it affect the responsive design whilst I was trying to add the tiles. I did not manage to complete the task within the 3 hours I had initially given myself, however I did still finish it that night. The entire process for this task took just under 5 hours. A majority of that time spent on debugging or scrapping initial code and starting from scratch.
+
+### Analysis
+
+I believe the main reason things didn't go as well as they could have, was due to my code not being as optimised as it could have been. There were lines of code that affected the body in my index.css file that would affect the blog pages. It definitely helped planning the wireframes so I had clear direction in what I wanted to achieve, rather than just attempting different things and seeing what would work or look best as I went. A lot of the issues I faced was also due to lack of knowledge as I had zero coding experience beforehand, except for the classes, so stepping into this project was very daunting and took a lot of mental energy/fortitude. I spent a lot of time trying different things with CSS Grid, but I could not get it working the way I wanted, and switched to CSS Flexbox half way through. I decided this as I simply had a stronger understanding and was able to debug more efficiently. 
+
+
 
 ## Question 8
 
-
+find events for networking
 
 ## Question 9
 
-
+language learning technologies such as chatGPT
 
 ## Question 10
 
-
+legal and ethical impacts 
 
 ## Question 11
 
-
+soft skills
+hard skills
 
 ## Question 12
 
+roles/job positions in software development company
 
+software architect
+Full stack Developer
+Product Manager
+Dev Ops engineer
+
+https://www.bairesdev.com/blog/software-development-roles/
 
 ## References
-
-1. https://www.semrush.com/blog/markup-language/
-2. https://www.ranked.ai/post/understanding-markup-languages
-3. https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/
-4. https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
-5. https://www.fortinet.com/resources/cyberglossary/what-is-ip-address
-6. https://www.popsci.com/technology/what-is-a-router/
-7. 
-8. 
