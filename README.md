@@ -62,9 +62,9 @@ https://serokell.io/blog/python-pros-and-cons - Python
 
 Hi Alex,
 
-Thank you so much for your enquiry. From the briefing you provided, I will definitely be able to assist you in the creation of your website!
+Thank you so much for your enquiry. SAM sounds like a great museum, I'll be sure to visit soon! From the briefing you provided, I will definitely be able to assist you in the creation of your website.
 
-I can send you a mock up of the wireframes and sitemaps which will provide you a visual on the layout for each page of the website and how the website flows. This will tell us if we're heading in the right direction of your vision. If I may ask, who is your primary target audience? This will help us decide on the most suitable design elements such as theme, colours and images etc. We ensure that all the website we design are responsive, so my team will optimise it for all devices as most people now access the internet through their phones. Additionally, we also focus on SEO optimisation, so your website ranks higher when certain keywords are searched into search engines like Google for example. This will increase traffic flow, bringing more people to your Museum. 
+I can send you a mock up of the wireframes and sitemaps which will provide you a visual on the layout for each page of the website and how the website flows. This will tell us if we're heading in the right direction of your vision. If I may ask, who is your primary target audience? This will help us decide on the most suitable design elements such as theme, colours and images etc. We ensure that all the website we design are responsive, so my team will optimise it for all devices as most people now access the internet through their phones. Additionally, we also focus on SEO optimisation, so your website ranks higher when certain keywords are searched into search engines like Google for example. This will increase traffic flow, directing more people to your website. 
 
 Bsased on what you described, this is the current layout I have in mind for your website:
 **Home Page** - On your landing page, we can keep it up-to-date with the latest and attractive exhibit you have at the time to really captivate your audience. We will design a navigation bar and footer which will make it easier for your customers to navigate to all pages of the website. 
@@ -79,7 +79,7 @@ Bsased on what you described, this is the current layout I have in mind for your
 
 You mentioned that you do not currently sell items, however, if in future you ever decide you want to, we could add a 'Shop" page and integrate an e-commerce store.
 
-My team will be responsible for hosting the website, managing customer information database and overall maintenance. We could update the website to suit your desired theme/exhibit. Once we have built the website, it will thoroughly tested to ensure everything is working as it should before finally launching it live. We strive to keep your involved in the entire process and keeping you updated on progress.
+My team will be responsible for hosting the website, managing customer information database and ongoing maintenance. We could update the website to suit your desired theme/exhibit. Once we have built the website, it will thoroughly tested to ensure everything is working as it should before finally launching it live. We strive to keep your involved in the entire process and keeping you updated on progress.
 
 Please let me know what you think. If there is anything else you would like to add or change, please don't hesitate to contact me. If you're happy with the above, I can begin on creating a quote and providing you with estimated timeframes. I look forward to hearing back from you.
 
@@ -139,13 +139,35 @@ hard skills
 
 ## Question 12
 
-roles/job positions in software development company
+Below are a few examples and descriptions of the many different roles you can find in software development company. 
 
-software architect
-Full stack Developer
-Product Manager
-Dev Ops engineer
+### Software Developer
 
-https://www.bairesdev.com/blog/software-development-roles/
+Software Developers specialise in the creation and design software or applications, by writing code in different coding languages (Open University Australia, 2022). This can range from coding the software, creating large networks/systems that manage devices or control networks, building systems to increase business operations which consumers may never see, or computer applications/apps for consumers. They work closely with Project Managers or clients to update progress, and review for possible improvements or suggestions (Kim, 2024). Some of the skills required to become a Software Developer include problem solving, strong attention to detail, Coding Language knowledge and interpersonal skills. 
+
+### Project Manager
+
+Project Managers oversee the entire project through its entire lifecycle, whilst managing the team toward their objective. They are in charge of defining goals, communication with stakeholders, effectively communicating between departments, all while focusing on budgets and schedules. They essentially act as the backbone of the project, ensuring the entire team operates smoothly and cohesively to meet deadlines. This position can be found in almost every company and industry. Project Managers will spend lots of time on research and analysis in the intial stages and plan all the stages required to complete their goal. 
+
+Some competencies required include:
+- Being proactive, being observant to make adjustments when needed and prevent problems before they arise.
+- Conflict Management can be a major part of a project managers role. Having strong communication skills will benefit them as they can manage the team, build relationships with team members and stakeholders on all levels and keep moral high.
+- Organisational skills are vital as they must delegate tasks appropriately, keep everyone on track with schedules and work seamlessly between departments. 
+
+### QA Engineer
+
+Quality Assurance Engineers are responsible for creating and running tests to identify any issues with the software, ensuring the product meets all quality requirements before its launch. Their duties generally include monitoring every stage of dvelopement, identifying and analysing any bugs or errors, documenting and reviewing. They are also expected to create plans for correction, improvements or optimisations (Whitfield, 2022). These improvement plans can either be done manually or design automated software to test the products. 
+
+### UI/UX Designers
+
+
+
+### Software Architect
+
+
+
+### Business Analyst
+
+
 
 ## References
