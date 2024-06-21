@@ -42,7 +42,7 @@ Transmission Control Protocol (TCP) is the internet protocol establishes a conne
 
 ## Question 4
 
-Compilers (eg. C, C++) and Interpreters (eg. PHP, Ruby) are programs that take high-level language or source code, that we humans understand, and converts it into machine language; each with their own advantages and disadvantages. The main difference between the two is that, a compiler will read the entire code that is saved to a file before it is executed; whereas interpreters read source code line by line as the program is run. (Ben Sassi, 2023). Compiled code generally takes longer to analyse than Interpreted as it goes through the entire code, but consequently the program will run faster than interpreted code being analysed line by line while the program is being executed. 
+Compilers (eg. C, C++) and Interpreters (eg. PHP, Ruby) are programs that take high-level language or source code, that we humans understand, and converts it into machine language; each with their own advantages and disadvantages. The main difference between the two is that, a compiler will read the entire code that is saved to a file before it is executed; whereas interpreters read source code line by line as the program is run (Ben Sassi, 2023). Compiled code generally takes longer to analyse than Interpreted as it goes through the entire code, but consequently the final program will perform faster than interpreted code that is being analysed line by line while the program is being executed. 
 
 Compilers will display all errors after it's been compiled and interpreters will display the errors of each line individually which makes it simpler to debug. This in turn means that compilers generally consume more memory than interpreters. Another reason Compiled code is faster is due to it being optimised to the device or platform that is is run on, although this can also be a disadvantage as it means the programs may not be cross-platform compatible. Once code has been compiled, the executable file can be launched without needing any of the source code which provides some confidentiality. Interpreters always require the source code for processing but can be executed on any machine or device without compatibility issues (BasuMallick, 2023).
 
@@ -93,7 +93,7 @@ Coder Academy
 
 ## Question 7
 
-I have only had one previous software engineering project, which was creating my Website Portfolio for Coder Academy. The scenario I will be reflecting upon specifically is when I was trying to create the landing page for My Blogs and the Blog Article layout page. For this self-reflection, I will be adopting Gibbs' Reflective Cycle 1988, which explored six stages of the experience: description, feelings, evaluation, analysis, conclusion and action plan. I believe this reflection model covers many bases and offers a solid framework for examining many aspects of the experience (University of Edinburgh, n.d.).
+I have only had one previous software engineering project, which was creating my Website Portfolio for Coder Academy. The scenario I will be reflecting upon specifically is when I was trying to create the a page showcasing all my Blogs and the Blog Article layout page itself. For this self-reflection, I will be adopting Gibbs' Reflective Cycle 1988, which explored six stages of the experience: description, feelings, evaluation, analysis, conclusion and action plan. I believe this reflection model covers many bases and offers a solid framework for examining many aspects of the experience (University of Edinburgh, n.d.).
 
 ### Description
 
@@ -134,8 +134,30 @@ legal and ethical impacts
 
 ## Question 11
 
-soft skills
-hard skills
+### Hard Skills
+
+Hard Skills refer to techincal skills that can be learned through education, specific training or experience. They are skills that can be easily quantified and demonstrated through qualifications, portfolios or test results (Long, n.d.). These are required to successfully perform techincal task of a job, like building a website. The requirements of these skills is dependent on the job or role. Certain professions will require specific hard skills; for example becoming a Doctor or Lawyer absolutely requires specific qualifications to be practiced, in comparison to Software Engineering where qualifications may be desirable to an employer, the knowledge can be self-taught and does not necessarily require a degree. 
+
+Some examples of Hard Skills and their importance in software development include:
+
+- Programming Language Knowledge (eg. Python, JavaScript, HTML, CSS etc.)
+- Database Management
+
+
+### Soft Skills
+
+Soft Skills refer to personal traits or abilities of individual and speaks on 'how' and 'why' you do certain things, and what you're drivers are. These skills contribute to creating a functional and strong work environment (Indeed Editorial Team, 2024). Soft skills are not as easily quantified or measured, but hold significant value to the workplace. The soft skills required also are job/role dependeng, for example Contact Centre workers will need strong verbal communication skills are they are client facing and must relay information as clear and concise as possible.
+
+Some examples of Soft Skills and their importance in software development include:
+
+- **Problem Solving** is the process of defining or identifying a problem, determining the cause and creating effective solutions or plans to resolve the problem. This skill is required in all aspects of work It is crucial in software development as you will inevitably experience errors whilst coding, and it is important to know how to navigate these errors and debug efficiently. 
+
+- **Ability to work in a team** is important as you will need to co-ordinate with team members to optimise efficiency. This comes hand-in-hand with another soft skill, **communication**. This can be as important as the code that is written, as it can prevent misunderstandings from occuring, affect deadlines and the output of the final product. It is important to leave clear messages or notes for teammates if they were to continue from your code so they have a clear grasp on the current progress.
+
+- The **ability to work under pressure** is being able to perform at a high-standard with time or deadline constraints. This requires strong **Time Management** skills and planning so that all objectives are promptly being met. This is important in many roles, especailly software development as there will be deadlines for different goals that need to be met, and being able to remain focused under these pressures will ensure a higher quality of work being produced. 
+
+
+
 
 ## Question 12
 
@@ -156,18 +178,57 @@ Some competencies required include:
 
 ### QA Engineer
 
-Quality Assurance Engineers are responsible for creating and running tests to identify any issues with the software, ensuring the product meets all quality requirements before its launch. Their duties generally include monitoring every stage of dvelopement, identifying and analysing any bugs or errors, documenting and reviewing. They are also expected to create plans for correction, improvements or optimisations (Whitfield, 2022). These improvement plans can either be done manually or design automated software to test the products. 
+Quality Assurance Engineers are responsible for creating and running tests to identify any issues with the software, ensuring the product meets all quality requirements before its launch. Their duties generally include monitoring every stage of developement, identifying and analysing any bugs or errors, documenting and reviewing. They are also expected to create plans for correction, improvements or optimisations (Whitfield, 2022). These improvement plans can either be done manually or design automated software to test the products. 
 
 ### UI/UX Designers
 
+UX/UI Designers are responsible for enhancing usability and user experience of a product. They  gather and evaluate data on user requirements to ensure the product or services meets the desired outcome (Pavlou, 2017). This includes how users interact with the product, eg. Websites, and designing the graphical elements like menus and widgets, and the overall layout. This is accomplished by generating mockups or prototypes (such as wireframes) to clearly demonstrate how the product will function and how it looks. They work closely with Product Managers and stakeholders to ensure their target goal is being met. 
+
+Some skills to become a UI/UX include knowledge with design programs such as Adobe Photoshop/Illustrator and Wireframe tools; and Critial thinking/Problem solving, as are responsible for creating ways to optimise the overall user experience. Research and Analysis skills also play a part in determining how to improve user experience based on the information and data gathered.
 
 
 ### Software Architect
 
+Software Architects are responsible for determining 
+(Hanenko, 2024)
 
+### Full-Stack Developer
 
-### Business Analyst
+A Full-Stack is a term to define individuals who are able to operate and have expertise in both front-end and back-end development (Coursera Staff, 2021). Although the term is generally used for web development, it can apply to all types of software development. Front-end refers to elements the users see and interact with, and back-end referring to server-side, databases, etc. all the things users can't see. 
 
 
 
 ## References
+
+References
+(A short history of the internet, n.d.)
+A short history of the internet. (n.d.). National Science and Media Museum. Retrieved June 17, 2024, from https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
+(BasuMallick, 2022)
+BasuMallick, C. (2022, April 5). TCP definition, model layers, and best practices. Spiceworks Inc; Spiceworks. https://www.spiceworks.com/tech/networking/articles/what-is-tcp/
+(BasuMallick, 2023)
+BasuMallick, C. (2023, June 16). Compiler and interpreter critical differences - spiceworks. Spiceworks Inc; Spiceworks. https://www.spiceworks.com/tech/tech-general/articles/compiler-vs-interpreter-12-critical-differences-to-know/
+(Ben Sadok, 2021)
+Ben Sadok, S. (2021, October 18). What is markup language? Examples, types & definition. Semrush Blog; Semrush. https://www.semrush.com/blog/markup-language/
+(Ben Sassi, 2023)
+Ben Sassi, R. (2023, April 24). Compiler vs. Interpreter in programming. Built In. https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter
+(Brain et al., 2024)
+Brain, M., Chandler, N., & Crawford, S. (2024, March 7). How domain name servers (DNS) work. HowStuffWorks. https://computer.howstuffworks.com/dns.htm
+(Coursera Staff, 2023)
+Coursera Staff. (2023, August 24). What is TCP/IP? Coursera. https://www.coursera.org/articles/tcp-ip
+(Differences between IPv4 and IPv6, 2018)
+Differences between IPv4 and IPv6. (2018, November 5). GeeksforGeeks. https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6/
+(Guinness, 2023)
+Guinness, H. (2023, November 2). What is a router? It’s like your WiFi’s post office. Popular Science. https://www.popsci.com/technology/what-is-a-router/
+(Indiana University, 2023)
+Indiana University. (2023, September 22). What is the difference between a compiled and an interpreted program? Kb.iu.edu. https://kb.iu.edu/d/agsz
+(Kim, 2024)
+Kim, A. (2024, April 2). Indeed.com. https://www.indeed.com/career-advice/careers/what-does-a-software-developer-do
+(Kurose & Ross, 2021)
+Kurose, J., & Ross, K. (2021). Computer networking: A top-down approach, global edition (8th ed.). Pearson Education.
+(Open University Australia, 2022)
+Open University Australia. (2022, October 6). What is a software developer and what do they do? Edu.au. https://www.open.edu.au/advice/insights/what-is-a-software-developer-and-what-do-they-do
+(Pavlou, 2017)
+Pavlou, C. (2017, August 31). UI/UX Designer job description. Recruiting Resources: How to Recruit and Hire Better; Workable. https://resources.workable.com/ui-ux-designer-job-description
+(Petrova, 2023)
+Petrova, B. (2023, May 30). DNS history. When and why was DNS created? ClouDNS Blog. https://www.cloudns.net/blog/dns-history-creation-first/
+
