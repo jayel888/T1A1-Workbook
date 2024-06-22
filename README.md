@@ -153,8 +153,9 @@ Hard Skills refer to techincal skills that can be learned through education, spe
 
 Some examples of Hard Skills and their importance in software development include:
 
-- Programming Language Knowledge (eg. Python, JavaScript, HTML, CSS etc.)
-- Database Management
+- **Programming Language Knowledge** (eg. Python, JavaScript, HTML, CSS etc.) is crucial to work as a software developer. Through these languages, it enables the developer to create code for the computer to execute. The programming language used will depend on the project. It is not expected to be proficient in every language, however it is desirable to be an expert in at least one. 
+- **Database Management** skills can offer many benefits to a software development workspace. It is the practice of collating, organising and protecting all the companies data that could be used for important business decisions and optimise business operations by reducing costs and increasing revenue and profits. This is required to handle sensitive data of staff and clients. 
+- Strong **Typing skills** are generally not a hard skill required for many employers, however for software development it is highly impactful to increase efficiency. It allows coders to simply output more code in a shorter amount of time, which utilises company resources more effectively, and it important when working on projects tight deadlines. 
 
 
 ### Soft Skills
@@ -168,8 +169,6 @@ Some examples of Soft Skills and their importance in software development includ
 - **Ability to work in a team** is important as you will need to co-ordinate with team members to optimise efficiency. This comes hand-in-hand with another soft skill, **communication**. This can be as important as the code that is written, as it can prevent misunderstandings from occuring, affect deadlines and the output of the final product. It is important to leave clear messages or notes for teammates if they were to continue from your code so they have a clear grasp on the current progress.
 
 - The **ability to work under pressure** is being able to perform at a high-standard with time or deadline constraints. This requires strong **Time Management** skills and planning so that all objectives are promptly being met. This is important in many roles, especailly software development as there will be deadlines for different goals that need to be met, and being able to remain focused under these pressures will ensure a higher quality of work being produced. 
-
-
 
 
 ## Question 12
