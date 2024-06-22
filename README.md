@@ -44,7 +44,7 @@ HTTP started off very basic, supporting only the retrieval of plain text. Over t
 
 ### Web Browsers
 
-
+Web Browsers are software applications that allow users to navigate the internet by displaying text, images or videos from the information that is retrieved from web servers. There are many different types of browsers in the market, with the most commonly used being Google Chrome and Safari making up approximately 85% of users in 2024 (similarweb, 2024). The first browser "WorldWideWeb" was invented in 1990 by Tim Berners-Lee and was the only means of accessing the web at the time. In 1992, Lynx was created but could only display text and no graphic components. This feature was later introducted by Mosaic that allowed embededd images. Microsofts Internet Explorer was debuted in 1995 while Safari was released in 2003 specifically for Macintosh computers. Google Chrome was later introducted in 2008 and quickly dominated the market with is being the most widely used browser today (Mcpeak, 2018). Web Browsers have shaped the internet today by providing an easy-to-use graphical interface to it's users to display information, with each browser enhancing browser experience by improving speed and efficiency, security and privacy, providing cross-platform compatibility and implementing extensions and plug-ins that can be contributed to by the community. 
 
 ## Question 4
 
