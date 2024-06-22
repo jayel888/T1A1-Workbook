@@ -68,14 +68,9 @@ However with all of its positives, there are some drawbacks. There is a client-s
 
 ### Python
 
+Python is an interpreted, high-level programming language that has recently become one of the fastest growing and most popular coding languages in the world due to its versatility and beginner-friendliness. It has multi-purposed functionality meaning it can be used to design a wide array of applications like software and web development, automation or conduct data analysis. Python has a strong active community that is known for being friendly and supportive, maintaining many open-source libraries and frameworks available to the public (Gavrilova, 2023). It is embeddable meaning it can be seamlessly integrated into other languages, which allows users to utilise the benefits of Python whilst using their preferred programming language. Another advantage of Python is its high scalability being able to handle large amounts of data and computing by utilising libraries and frameworks such as Pandas or NumPy. 
 
-https://www.netguru.com/blog/python-pros-and-cons
-https://serokell.io/blog/python-pros-and-cons - Python
-
-
-
-
-
+Nevertheless, with all its advantages, Python does come with some drawbacks. As it is a interpreter, it is slower than compiled languages which is noticeable computing large amounts of code or performing complex calculations. It is not a native to mobile environment and is considered a fairly weak language for mobile development. Python also has high memory consumption, and comes with a process called Garbage Collection which automatically frees up memory resources that aren't use by the program, which can consequently lead to performance issues due to poor optimisation. 
 
 ## Question 6
 
