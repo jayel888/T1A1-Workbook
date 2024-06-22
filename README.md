@@ -138,6 +138,28 @@ If I were to work on a similar project and find myself in a similar position, th
 
 ### Action Plan for Career Growth in IT
 
+Hack.Melbourne hold numerous events throughout the year, with the annual **Melbourne Hack upcoming on 30/08 - 01/09/24**. This opportunity lets participants connect with industry-leading companies, meet other peers and learn. 
+**CISSA X MAC | StartHack 24/06/2024** hosted by Monash Association of Coding and Computing and Information Systems Students Association from University of Melbourne
+Melbourne Business Network Monthly Networking and Catchup Event 18/7/24
+Programmable 2025, 2024 has passed
+Tech Skills that Matter: Pair programming with TDD
+
+
+### SMART Goals
+
+1. Meet and introduce myself to at least 5 people per event to expand my network within the next 12 months.
+2. 
+
+### Tasks
+
+### Timeline
+
+### Resources
+
+### Monitor Progress
+
+
+
 https://hack.melbourne/upcoming/calendar
 find events for networking
 
@@ -223,35 +245,90 @@ A Full-Stack is a term to define individuals who are able to operate and have ex
 
 ## References
 
-References
-(A short history of the internet, n.d.)
 A short history of the internet. (n.d.). National Science and Media Museum. Retrieved June 17, 2024, from https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
-(BasuMallick, 2022)
+
 BasuMallick, C. (2022, April 5). TCP definition, model layers, and best practices. Spiceworks Inc; Spiceworks. https://www.spiceworks.com/tech/networking/articles/what-is-tcp/
-(BasuMallick, 2023)
+
 BasuMallick, C. (2023, June 16). Compiler and interpreter critical differences - spiceworks. Spiceworks Inc; Spiceworks. https://www.spiceworks.com/tech/tech-general/articles/compiler-vs-interpreter-12-critical-differences-to-know/
-(Ben Sadok, 2021)
+
 Ben Sadok, S. (2021, October 18). What is markup language? Examples, types & definition. Semrush Blog; Semrush. https://www.semrush.com/blog/markup-language/
-(Ben Sassi, 2023)
+
 Ben Sassi, R. (2023, April 24). Compiler vs. Interpreter in programming. Built In. https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter
-(Brain et al., 2024)
+
 Brain, M., Chandler, N., & Crawford, S. (2024, March 7). How domain name servers (DNS) work. HowStuffWorks. https://computer.howstuffworks.com/dns.htm
-(Coursera Staff, 2023)
+
+Coursera Staff. (2021, December 9). What is a full-stack developer? Coursera. https://www.coursera.org/articles/full-stack-developer
+
 Coursera Staff. (2023, August 24). What is TCP/IP? Coursera. https://www.coursera.org/articles/tcp-ip
-(Differences between IPv4 and IPv6, 2018)
+
 Differences between IPv4 and IPv6. (2018, November 5). GeeksforGeeks. https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6/
-(Guinness, 2023)
+
+Gavrilova, Y. (2023, October 31). Pros and cons of Python programming language. Pros and Cons of Python; Serokell. https://serokell.io/blog/python-pros-and-cons
+
+Glukhovskyy, A. (2023, July 7). Is ChatGPT plagiarism? No, but it’s close. Growthtribe.Io. https://growthtribe.io/blog/is-chatgpt-plagiarism
+
 Guinness, H. (2023, November 2). What is a router? It’s like your WiFi’s post office. Popular Science. https://www.popsci.com/technology/what-is-a-router/
-(Indiana University, 2023)
+
+Hamid, N. (2023, November 9). Future of Chat GPT and its impact on society. Linkedin.com. https://www.linkedin.com/pulse/future-chat-gpt-its-impact-society-neha-hamid-qxzpc/
+
+Hanenko, K. (2024, April 22). Software development team roles and responsibilities. Altamira; Altamira Softworks, s. r. o. https://www.altamira.ai/blog/software-development-team-roles-and-responsibilities/
+
+Indeed Editorial Team. (2024, May 31). Hard Skills vs Soft Skills: Understanding the Difference. Indeed.com. https://au.indeed.com/career-advice/resumes-cover-letters/hard-skills-vs-soft-skills
+
 Indiana University. (2023, September 22). What is the difference between a compiled and an interpreted program? Kb.iu.edu. https://kb.iu.edu/d/agsz
-(Kim, 2024)
+
+Jarrah, A. M., Wardat, Y., & Fidalgo, P. (2023). Using ChatGPT in academic writing is (not) a form of plagiarism: What does the literature say?
+
+Jonna, V. (2024, March 28). Advantages and disadvantages of JavaScript - ellow.Io. Ellow Talent. https://ellow.io/advantages-and-disadvantages-of-javascript/
+
 Kim, A. (2024, April 2). Indeed.com. https://www.indeed.com/career-advice/careers/what-does-a-software-developer-do
-(Kurose & Ross, 2021)
+
 Kurose, J., & Ross, K. (2021). Computer networking: A top-down approach, global edition (8th ed.). Pearson Education.
-(Open University Australia, 2022)
+
+Long, B. (n.d.). Hard Skills vs Soft Skills. What are they? Insightglobal.com. Retrieved June 21, 2024, from https://insightglobal.com/blog/hard-skills-vs-soft-skills/
+
+Make Computer Science Great Again. (2023, November 1). A deep dive into HTTP: The backbone of the World Wide Web. Medium. https://medium.com/@MakeComputerScienceGreatAgain/a-deep-dive-into-http-the-backbone-of-the-world-wide-web-423bb0218a51
+
+Mcpeak, A. (2018, January 24). A brief history of web browsers and how they work. Smartbear.com. https://smartbear.com/blog/history-of-web-browsers/
+
+Medushevska, M. (2022, July 20). The role, skills, and duties of a software architect. Syndicode - Custom Software Development Company. https://syndicode.com/blog/the-role-skills-and-duties-of-a-software-architect/
+
+O’Flaherty, K. (2024, May 17). ChatGPT-4o is wildly capable, but it could be A privacy nightmare. Forbes. https://www.forbes.com/sites/kateoflahertyuk/2024/05/17/chatgpt-4o-is-wildly-capable-but-it-could-be-a-privacy-nightmare/
+
+Olsen, T. (2023, April 4). Chat GPT: Should software developers be worried? Linkedin.com. https://www.linkedin.com/pulse/chat-gpt-should-software-developers-worried-tim-olsen/
+
 Open University Australia. (2022, October 6). What is a software developer and what do they do? Edu.au. https://www.open.edu.au/advice/insights/what-is-a-software-developer-and-what-do-they-do
-(Pavlou, 2017)
+
 Pavlou, C. (2017, August 31). UI/UX Designer job description. Recruiting Resources: How to Recruit and Hire Better; Workable. https://resources.workable.com/ui-ux-designer-job-description
-(Petrova, 2023)
+
+Perkins, M. (2023). Academic Integrity considerations of AI large language models in the post-pandemic era: ChatGPT and beyond. Journal of University Teaching & Learning Practice, 20(2).
+
 Petrova, B. (2023, May 30). DNS history. When and why was DNS created? ClouDNS Blog. https://www.cloudns.net/blog/dns-history-creation-first/
 
+Raval, N. (2024, February 29). JavaScript Statistics: Latest usage insights and trends 2024. Radixweb. https://radixweb.com/blog/top-javascript-usage-statistics
+
+Rich, S. (2023, February 22). Why ChatGPT AI is controversial. Linkedin.com. https://www.linkedin.com/pulse/why-chatgpt-ai-controversial-steven-rich-mba/
+
+Ryan, E. (2023, June 15). What Are the Legal Implications of ChatGPT? Scribbr.com. https://www.scribbr.com/ai-tools/legal-implications-chatgpt/
+
+Seibert, L. (2023, March 20). Understanding the importance of web accessibility. Forbes. https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/
+
+Severance, C. (2015). Introduction to Networking: How the Internet Works.
+
+Software Developer. (n.d.). SEEK. Retrieved June 19, 2024, from https://www.seek.com.au/career-advice/role/software-developer
+
+Thakur, S. (n.d.). Unstop - competitions, quizzes, hackathons, scholarships and internships for students and corporates. Unstop.com. Retrieved June 22, 2024, from https://unstop.com/blog/advantages-and-disadvantages-of-javascript
+
+Understanding markup languages: Examples, types & definitions. (n.d.). Ranked.Ai. Retrieved June 17, 2024, from https://www.ranked.ai/post/understanding-markup-languages
+
+University of Edinburgh. (n.d.). Gibbs’ reflective cycle. The University of Edinburgh. Retrieved June 19, 2024, from https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle
+
+Villanueva, M. S. (2021, November 26). What is DNS, and Why is it Important? Itsasap.com. https://www.itsasap.com/blog/what-is-dns
+
+What is an IP Address? How it works? How to Locate it? (n.d.). Fortinet. Retrieved June 17, 2024, from https://www.fortinet.com/resources/cyberglossary/what-is-ip-address
+
+What is Hypertext Transfer Protocol (HTTP)? (n.d.). F5, Inc. Retrieved June 22, 2024, from https://www.f5.com/glossary/hypertext-transfer-protocol-http
+
+Whitfield, B. (2022, May 2). What is a QA engineer? How to become one, salary, skills. Builtin.com; Built In. https://builtin.com/learn/careers/qa-engineer
+
+(N.d.). Similarweb.com. Retrieved June 22, 2024, from https://www.similarweb.com/browsers/
