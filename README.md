@@ -136,15 +136,26 @@ If I were to work on a similar project and find myself in a similar position, th
 
 ## Question 8
 
+### Action Plan for Career Growth in IT
+
+https://hack.melbourne/upcoming/calendar
 find events for networking
 
 ## Question 9
 
-language learning technologies such as chatGPT
+With the recent improvements in Language-Learning Model technologies such as ChatGPT, artifical intelligence (AI) has had both positive and negative impact on how we live and work. It is incredibly easy to use with its access being open to everyone and free. It has become increasing mainstream in many different industries. Being compared to virtual-assistant technology, it is able to intake queries and produce human-like interactions from the complex language models it learns from. 
+
+In software development, ChatGPT is able auto-generate code in seconds in various common programming languages like Python, Java and C#. It is currently unable to produce complex software from scratch and it prone to making mistakes (Olsen, 2023). However through it's short lifespan, frequent updates to ChatGPT demonstrate it's increasing maturity. Whether or not is will completely replace developers in the future is up for debate, but as of now, it is a very powerful tool that can be used as a catalyst for creativity and significantly improve the quality of life for a software developer. It is able to produce a solid working foundation or template of code, or automate repetitive code which will free up valuable time for Developers to use for more complex tasks. This could protentially make Software Development as an industry more accessible to the public by allowing people without prior knowledge to start writing using human language (Olsen, 2023). Additionally, it is able to assist in debugging by quickly scanning through thousands of lines of code and identifying errors, as well as recommending solutions for the errors. It can be utilised to efficiently gather information and research which can save us from scouring the web for multiple resources. 
+
+In summary, there are many uses for language-learning model technologies, but ultimately it allows us more freedom to spend time on tasks that cannot yet be automated. 
 
 ## Question 10
 
-legal and ethical impacts 
+One of the controversies surrounding these technologies is plagiarism. The results generated are bits of information from multiple sources stitched together somewhat coherently (Glukhovskyy, 2023).
+
+Although it can effectively be used to boost productivity, it will only be as good as the data is learned from. This can affect the results output to contain biases or be simply incorrect as it may not have thorough understanding of the world and its workings. The same principles also apply to other tasks like reporting writing or idea generation.
+
+(Jarrah et al., 2023)
 
 ## Question 11
 
