@@ -50,6 +50,19 @@ Both compilers and interpreters have unique applications and do not replace each
 
 ## Question 5
 
+### JavaScript
+
+JavaScript (JS) is a very widely used programming language that is popular for its versatility in creating interactive elements for a website. It was initially designed to add interactivity to static HTML pages, and has since evolved into an essential tool for web developers. It has provided the framework for other emereging technologies such as Node.js, which expands Javascripts application beyond an internet browser. As of February 2024, Javascript is used in 98.7% of websites on the internet as a client-side programming language (Raval, 2024). There are many advantages that turned this language, which was only created in ten days, into one of the a fundamental pillar of the internet. 
+
+JavaScript enhanced speed and efficiency, a benefit from its ability to executing directly on the clients or users end, which minimises its use of server resources. As users enter a website, the javascript code is executed directly from their browser which aids in loading webpages significantly faster as it is able to bypass server communication. It is also able to efficiently handle large data transfers, meaning the information is relayed with minimal delay, increasing the overall responsiveness of webpages. 
+JS also has the ability to facilitate front-end and back-end tasks to be executed by a single language, making is simple and more accessible to web developers at all level. 
+It is interoperable meaning it works seamlessly with other programming languages like HTML and CSS, and has amassed a large ecosystem, which contains an abundance of libraries and frameworks such as React and Angular. 
+
+However with all of its positives, there are some drawbacks. There is a client-side security risk as its implementation varies between browsers, which makes it more difficult for developers to write code cross-browser. This can create vulnerabilities for users which hackers can exploit, enabling them to modify it with malicious code and compromise their systems. JavaScript code is visible to everyone, meaning anyone could potentially access and modify it, increasing the risk of data breaches. Additional layers of security must be implemented to combat this and protect sensitive data. JavaScript has a 'Single Inheritance Model' meaning objects or elements are limited to inheriting properties from a single parent, in comparison to other languages that can support multiple. Its dynamic nature can make debugging more challenging as some errors may only present themselves during runtime (Thakur, n.d.). 
+
+### Python
+
+
 https://www.netguru.com/blog/python-pros-and-cons
 https://serokell.io/blog/python-pros-and-cons - Python
 
