@@ -38,7 +38,13 @@ Transmission Control Protocol (TCP) is the internet protocol establishes a conne
 
 ### HTTP and HTTPS
 
+Hypertext Transfer Protocol (HTTP) is an application protocol that was created to facilitate the transfer of information between clients and servers, and operates on top of the TCP/IP suite. It was used alongside HTML to create the first text-based web browser and still remains the primary protocol for data transfer across the Internet today. HTTP utilises a request-response model, where the client sends a request to a server, which issues a response. The server delivers the requested data to the user in the form of HTML pages, images or videos after the request has been initiated via their browser. Hypertext Transfer Protocol Secure (HTTPS) is a more secure extension of HTTP, in which the browser and server establish a secure, encrypted connection before the commencement of data transfer. 
+
+HTTP started off very basic, supporting only the retrieval of plain text. Over the years, its capabilities have evolved alongside the complexity of web applications as they required faster performance. It's next stage HTTP/2 improved upon data compression and allowed multiple requests/responses to be processed simultaneously. HTTP/3 further enhanced its performance by reducing latency in harsher network conditions (Make Computer Science Great Again, 2023).
+
 ### Web Browsers
+
+
 
 ## Question 4
 
@@ -201,8 +207,7 @@ Some skills to become a UI/UX include knowledge with design programs such as Ado
 
 ### Software Architect
 
-Software Architects are responsible for determining 
-(Hanenko, 2024)
+Software Architects are responsible for determining which processes and technologies are to be implemented by the development team, by dictacting software coding standards and selecting the optimal tools (Medushevska, 2022). They assist in the translation of ideas into technical tasks that are distributed to the allocated teams. They are often delegated critical tasks that can range from designing to engineering. There are many different types of Software Architects such as Enterprise Architects, who focus on the development and growth of IT systems in an enterprise or organisation; Data Architects who handle the collection, storage and distribution of data; and Solutions Architects whom specialise in analysing business requirements and creating/implementing solutions or products to meet those requirements. The hard skills are dependent on the job and company, however generally require sound understanding of technology environments, proficiency of coding languages and knowledge of cloud software, domains and databases. 
 
 ### Full-Stack Developer
 
