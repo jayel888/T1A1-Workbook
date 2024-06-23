@@ -138,30 +138,35 @@ If I were to work on a similar project and find myself in a similar position, th
 
 ### Action Plan for Career Growth in IT
 
-Hack.Melbourne hold numerous events throughout the year, with the annual **Melbourne Hack upcoming on 30/08 - 01/09/24**. This opportunity lets participants connect with industry-leading companies, meet other peers and learn. 
-**CISSA X MAC | StartHack 24/06/2024** hosted by Monash Association of Coding and Computing and Information Systems Students Association from University of Melbourne
-Melbourne Business Network Monthly Networking and Catchup Event 18/7/24
-Programmable 2025, 2024 has passed
-Tech Skills that Matter: Pair programming with TDD
-
-
 ### SMART Goals
+1. Participate in at least 5 events over the next 12 months and introduce myself to at least 5 people per event to expand my network with like-minded individuals who share similar passions.
+2. Update my LinkedIn profile and optimise it for the IT industry. Reach out to potential contacts and employers 
+3. Improve my coding language knowledge by at least 100% by studying for at least 2 hours every night after work.
 
-1. Meet and introduce myself to at least 5 people per event to expand my network within the next 12 months.
-2. 
+### Action List
 
-### Tasks
+Participate in local Melbourne events such as:
+- the Hack.Melbourne annual Hack event which runs from 30/08 - 01/09/24
+- Australian Computer Society Networking events
+- Melbourne Business Network Monthy Networking and Catchup Events
+- Programmable 2025 (2024 has already passed)
+- Tech Skills that Matter: Pair programming with TDD, 14/11/2024
+- Other local meetup events such as 2024-Apr-Std organised catch ups
+
+By participating in such events, it provides me the exposure and opportunity to meet other peers and professionals in the IT industry. To maximise my growth, I will update my LinkedIn profile so I can show potential employers, and have my portfolio ready to view. My goal is to really put myself out there and introduce myself to at least 5 people per event and hopefully obtain their contact details. I will conduct prior research about the guest speakers beforehand so I have a clearer understanding of who they are and what they do. I strive to write down concise notes from the lectures to retain as much information as I can whilst actively listening. I intend to prioritise these events as they are an important aspect of becoming an IT professional, so I will plan ahead if it coincides with work days and take annual leave if necessary. 
 
 ### Timeline
 
+As the events are scattered over the year, I have set a 12 month timeline. However with my knowledge based goals, I plan to see a steady increase over the 12 months. 
+For updating my LinkedIn profile, my goal is to have that completely up to date by 14th July 2024.
+
 ### Resources
+
+I have planned to allocate the entire day to the events and stay until the end, or if the event spans over multiple days, to participate in at least one full day. Other resources required will be a laptop, notebook and stationary. Some events are paid events, in which case I will need to assess my financial situation 2 months before the start date to consider if I am in a position to attend. 
 
 ### Monitor Progress
 
-
-
-https://hack.melbourne/upcoming/calendar
-find events for networking
+By the end of my action plan, I hope to have enough resources that will assist me in finding employment within the IT industry after I have finished the Coder Academy Course. I will measure the growth of my programming language knowledge by settings benchmarks for how I complete tasks or projects now, and evaluating how efficiently similar tasks or projects will be completed in 12 months. So if I can complete a project in 10 hours today, my goal will be to be able to complete a simialar one in 5 hours or less. 
 
 ## Question 9
 
